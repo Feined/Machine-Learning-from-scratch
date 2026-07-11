@@ -1,1 +1,1 @@
-Understanding Machine learning and coding it with and without Scikit-Learn.
+Understanding Machine learning and coding it without Scikit-Learn.
